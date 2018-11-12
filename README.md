@@ -8,22 +8,22 @@ def winter_styles():
     btn_walking = Button(root,                                              #Teeme uut nuppu, mille abil saame valida kostüüme õues jalutamiseks
                         text = "Walking outside",
                         font = ("HP Simplified", 40),
-                        width=10, height=1,
+                        width=15, height=1,
                         bg = "SteelBlue4", fg = "SteelBlue1").place(x = 100, y= 100)
     btn_date = Button(root,                                                 #Teeme uut nuppu, mille abil saame valida kostüüme tädirannaks
                      text = "Date",
                      font = ("HP Simplified", 40),
-                     width=10, height=1,
+                     width=15, height=1,
                      bg = "SteelBlue4", fg = "SteelBlue1").place(x = 100, y= 200)
     btn_studyng = Button(root,                                              #Teeme uut nuppu, mille abil saame valida kostüüme õppimiseks
                         text = "Studying",
                         font = ("HP Simplified", 40),
-                        width=10, height=1,
+                        width=15, height=1,
                         bg = "SteelBlue4", fg = "SteelBlue1").place(x = 100, y= 300)
     btn_restaurant = Button(root,                                              #Teeme uut nuppu, mille abil saame valida kostüüme restoranis käimiseks
                            text = "Restaurant dinner",
                            font = ("HP Simplified", 40),
-                           width=10, height=1,
+                           width=15, height=1,
                            bg = "SteelBlue4", fg = "SteelBlue1").place(x = 100, y= 400)
     root.mainloop()
 
@@ -37,22 +37,22 @@ def spring_styles():
     btn_walking = Button(root,                                              #Teeme uut nuppu, mille abil saame valida kostüüme õues jalutamiseks
                         text = "Walking outside",
                         font = ("HP Simplified", 40),
-                        width=10, height=1,
+                        width=15, height=1,
                         bg = "SteelBlue4", fg = "SteelBlue1").place(x = 100, y= 100)
     btn_date = Button(root,                                                 #Teeme uut nuppu, mille abil saame valida kostüüme tädirannaks
                      text = "Date",
                      font = ("HP Simplified", 40),
-                     width=10, height=1,
+                     width=15, height=1,
                      bg = "SteelBlue4", fg = "SteelBlue1").place(x = 100, y= 200)
     btn_studyng = Button(root,                                              #Teeme uut nuppu, mille abil saame valida kostüüme õppimiseks
                         text = "Studying",
                         font = ("HP Simplified", 40),
-                        width=10, height=1,
+                        width=15, height=1,
                         bg = "SteelBlue4", fg = "SteelBlue1").place(x = 100, y= 300)
     btn_restaurant = Button(root,                                              #Teeme uut nuppu, mille abil saame valida kostüüme restoranis käimiseks
                            text = "Restaurant dinner",
                            font = ("HP Simplified", 40),
-                           width=10, height=1,
+                           width=15, height=1,
                            bg = "SteelBlue4", fg = "SteelBlue1").place(x = 100, y= 400)
     root.mainloop()
 
@@ -65,22 +65,22 @@ def summer_styles():
     btn_walking = Button(root,                                              #Teeme uut nuppu, mille abil saame valida kostüüme õues jalutamiseks
                         text = "Walking outside",
                         font = ("HP Simplified", 40),
-                        width=10, height=1,
+                        width=15, height=1,
                         bg = "SteelBlue4", fg = "SteelBlue1").place(x = 100, y= 100)
     btn_date = Button(root,                                                 #Teeme uut nuppu, mille abil saame valida kostüüme tädirannaks
                      text = "Date",
                      font = ("HP Simplified", 40),
-                     width=10, height=1,
+                     width=15, height=1,
                      bg = "SteelBlue4", fg = "SteelBlue1").place(x = 100, y= 200)
     btn_studying = Button(root,                                              #Teeme uut nuppu, mille abil saame valida kostüüme õppimiseks
                          text = "Studying",
                          font = ("HP Simplified", 40),
-                         width=10, height=1,
+                         width=15, height=1,
                          bg = "SteelBlue4", fg = "SteelBlue1").place(x = 100, y= 300)
     btn_restaurant = Button(root,                                              #Teeme uut nuppu, mille abil saame valida kostüüme restoranis käimiseks
                            text = "Restaurant dinner",
                            font = ("HP Simplified", 40),
-                           width=10, height=1,
+                           width=15, height=1,
                            bg = "SteelBlue4", fg = "SteelBlue1").place(x = 100, y= 400)
     root.mainloop()
 
@@ -93,22 +93,22 @@ def autumn_styles():
     btn_walking = Button(root,                                              #Teeme uut nuppu, mille abil saame valida kostüüme õues jalutamiseks
                         text = "Walking outside",
                         font = ("HP Simplified", 40),
-                        width=10, height=1,
+                        width=15, height=1,
                         bg = "SteelBlue4", fg = "SteelBlue1").place(x = 100, y= 100)
     btn_date = Button(root,                                                 #Teeme uut nuppu, mille abil saame valida kostüüme tädirannaks
                      text = "Date",
                      font = ("HP Simplified", 40),
-                     width=10, height=1,
+                     width=15, height=1,
                      bg = "SteelBlue4", fg = "SteelBlue1").place(x = 100, y= 200)
     btn_studyng = Button(root,                                              #Teeme uut nuppu, mille abil saame valida kostüüme õppimiseks
                         text = "Studying",
                         font = ("HP Simplified", 40),
-                        width=10, height=1,
+                        width=15, height=1,
                         bg = "SteelBlue4", fg = "SteelBlue1").place(x = 100, y= 300)
     btn_restaurant = Button(root,                                              #Teeme uut nuppu, mille abil saame valida kostüüme restoranis käimiseks
                            text = "Restaurant dinner",
                            font = ("HP Simplified", 40),
-                           width=10, height=1,
+                           width=15, height=1,
                            bg = "SteelBlue4", fg = "SteelBlue1").place(x = 100, y= 400)
     root.mainloop()
 
@@ -122,25 +122,25 @@ def window1():
     btnw1w = Button(root,                                              #Teeme uut nuppu, mille abil saame valida kostüüme talvel
                    text = "Winter",
                    font = ("HP Simplified", 30),
-                   width=10, height=1,
+                   width=15, height=1,
                    bg = "SteelBlue4", fg = "SteelBlue1",
                    command = winter_styles).pack(side = 'top')                             #kasutame kasku, mis tulevus kasutab funktsioon "winter_styles()"
     btnw1spr = Button(root,                                             #Teeme uut nuppu, mille abil saame valida kostüüme kevadel
                      text = "Spring",
                      font = ("HP Simplified", 30),
-                     width=10, height=1,
+                     width=15, height=1,
                      bg = "SpringGreen4", fg = "SpringGreen1",
                      command = spring_styles).pack(side = 'right')                             #kasutame kasku, mis tulevus kasutab funktsioon "spring_styles()"
     btnw1sum = Button(root,                                             #Teeme uut nuppu, mille abil saame valida kostüüme suvel
                      text = "Summer",
                      font = ("HP Simplified", 30),
-                     width=10, height=1,
+                     width=15, height=1,
                      bg = "coral4", fg = "coral1",
                      command = summer_styles).pack(side = 'bottom')                             #kasutame kasku, mis tulevus kasutab funktsioon "summer_styles()"
     btnw1aut = Button(root,                                             #Teeme uut nuppu, mille abil saame valida kostüüme sügisel
                      text = "Autumn",
                      font = ("HP Simplified", 30),
-                     width=10, height=1,
+                     width=15, height=1,
                      bg = "DarkGoldenrod4", fg = "DarkGoldenrod1",
                      command = autumn_styles).pack(side = 'left')                             #kasutame kasku, mis tulevus kasutab funktsioon "autumn_styles()"
     root.mainloop()                        
